@@ -1,10 +1,10 @@
-# Cryptography---Exp-10-Implement-Diffie-Hellman-Key-Exchange
+# Exp-10 Implement Diffie Hellman Key Exchange
 
 ## AIM:
 
 To implement the Diffie-Hellman Key Exchange algorithm.
 
-## ALGORITHM:
+## DESIGN STEPS:
 
 ### Step 1:
 

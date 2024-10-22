@@ -30,8 +30,6 @@ Similarly Bob also selects a public key b and computes his secret key as B and s
 
 Now both of them compute their common secret key as the other one’s secret key power of a mod p.
 
-<br><br><br>
-
 ## PROGRAM:
 
 ```C
